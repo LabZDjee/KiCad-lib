@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Mechanical
+D General Unspecified Mechanical Stuff
+$ENDCMP
+#
+$CMP UA78L0xxAPK
+D Positive Linear Regulator, 100 mA, SOT-89, -40~125C
+K Voltage Regulator 100mA SOT-89
+F http://www.ti.com/lit/ds/symlink/ua78l.pdf
+$ENDCMP
+#
+#End Doc Library
