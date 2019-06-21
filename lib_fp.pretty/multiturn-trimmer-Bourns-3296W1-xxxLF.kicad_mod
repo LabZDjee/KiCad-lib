@@ -1,10 +1,10 @@
-(module multiturn-trimmer-Bourns-3296W1-xxxLF (layer F.Cu) (tedit 5CDE6EE5)
+(module multiturn-trimmer-Bourns-3296W1-xxxLF (layer F.Cu) (tedit 5D0C826A)
   (descr 3296W)
   (tags "Variable Resistor")
   (fp_text reference VR** (at -2.54 -3.81) (layer F.SilkS)
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
-  (fp_text value multiturn-trimmer-Bourns-3296W1-xxxLF (at 0 -6.35) (layer F.SilkS) hide
+  (fp_text value multiturn-trimmer-Bourns-3296W1-xxxLF (at 0 -6.35) (layer F.Fab) hide
     (effects (font (size 1.27 1.27) (thickness 0.254)))
   )
   (fp_text user %R (at -2.54 3.81) (layer F.Fab)
