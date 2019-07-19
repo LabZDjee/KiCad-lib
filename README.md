@@ -24,3 +24,4 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **little-fuse-5x20-holders-100_05x**: double 5x20 holder, LittleFuse type 100 054 / 056
 - **multiturn-trimmer-Bourns-3296W1-xxxLF**: vertical 3/8" through-hole multi-turn trimmer, Bourns 3296W series
 - **SOIC-8N**: 8-pin [SOIC](https://en.wikipedia.org/wiki/Small_Outline_Integrated_Circuit) SMD package
+- **R_Axial_DIN0207_L6.3mm_D2.5mm_P12.70mm_Horizontal**: current through-hole axial resistor with a 500-mil pitch
