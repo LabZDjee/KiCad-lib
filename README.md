@@ -7,8 +7,8 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 ### Schematic (Eeschema) Symbols
 
 - **Mechanical**: simple hole
-
 - **UA78L0xxAPK**: SMD linear positive regulator in SOT-89 (4-pin) package
+- **Fiducial**: simple reference to existing fiducial reference point in the PCB
 
 ### PCB Layout (Pcbnew) Footprints
 
