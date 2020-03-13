@@ -8,7 +8,8 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 
 - **Fiducial**: simple reference to existing fiducial reference point in the PCB
 - **Mechanical**: simple hole
-- **UA78L0xxAPK**: SMD linear positive regulator in SOT-89 (4-pin) package
+- **UA78L0xxAPK**: [SMT](https://en.wikipedia.org/wiki/Surface-mount_technology) linear positive regulator in SOT-89 (4-pin) package
+- **Phoenix-SDDC-1.5-6-3.5**: Phoenix Contact SKEDD Direct snap-in connector, 2 x 6 terminals at a 3.5 mm pitch
 
 ### PCB Layout (Pcbnew) Footprints
 
@@ -19,9 +20,14 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **IDC-156mil-vert-lock-2p**: 2-terminal 156-mil (3.96mm) IDC male connector with lock (type MAS-CON from PANCON)
 - **IDC-156mil-vert-lock-4p**: 4-terminal 156-mil (3.96mm) IDC male connector with lock (type MAS-CON from PANCON)
 - **LED_D3.0mm**: for 3-mm LED (through-hole)
--  **LED-PLCC2**: for [PLCC](https://en.wikipedia.org/wiki/Chip_carrier)-2 SMD LED
+-  **LED-PLCC2**: for [PLCC](https://en.wikipedia.org/wiki/Chip_carrier)-2 [SMT](https://en.wikipedia.org/wiki/Surface-mount_technology) LED
 - **LittleFuse-5x20-holder-646**: for LittleFuse fuse holder 646 series (5x20 fuses, through-hole)
 - **little-fuse-5x20-holders-100_05x**: double 5x20 holder, LittleFuse type 100 054 / 056
 - **multiturn-trimmer-Bourns-3296W1-xxxLF**: vertical 3/8" through-hole multi-turn trimmer, Bourns 3296W series
 - **R_Axial_DIN0207_L6.3mm_D2.5mm_P12.70mm_Horizontal**: current through-hole axial resistor with a 500-mil pitch
-- **SOIC-8N**: 8-pin [SOIC](https://en.wikipedia.org/wiki/Small_Outline_Integrated_Circuit) SMD package
+- **SOIC-8N**: 8-pin [SOIC](https://en.wikipedia.org/wiki/Small_Outline_Integrated_Circuit) SMT package
+- **Harwin-M20-87604xx**: 100-mil 4-position vertical SMT header from [Harwin](https://www.harwin.com)
+- **MJ4P4C-TE-SMD**: SMT 4P4C modular jack
+- **OSRAM_TOPLED_E1608**: Top LED 1608 from [Osram](https://www.osram.com)
+- **poke-wire-2-board-4-way-00-9276-004-021**: wire-to-board SMT connector, 4-way from [AVX](https://www.avx.com) (*poke* series)
+- **Phoenix-SDDC-1.5-6-3.5**: Phoenix Contact SKEDD Direct snap-in connector, 2 x 6 terminals at a 3.5 mm pitch
