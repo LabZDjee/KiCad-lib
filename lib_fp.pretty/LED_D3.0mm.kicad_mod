@@ -1,10 +1,10 @@
-(module LED_D3.0mm (layer F.Cu) (tedit 5CE64FB5)
+(module LED_D3.0mm (layer F.Cu) (tedit 5FB38463)
   (descr "LED, diameter 3.0mm, 2 pins")
-  (tags "LED diameter 3.0mm 2 pins")
+  (tags "LED TH")
   (fp_text reference REF** (at 1.27 -2.96) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value LED_D3.0mm (at 1.27 2.96) (layer F.Fab)
+  (fp_text value LED_D3.0mm (at 1.27 2.96) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.7 -2.25) (end -1.15 -2.25) (layer F.CrtYd) (width 0.05))

@@ -1,19 +1,64 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP Connect_ME_9210
+D Pinout of 2x10 Connector
+F https://www.digi.com/products/embedded-systems/system-on-modules/digiconnectme9210#resources
+$ENDCMP
+#
+$CMP Connect_ME_Enclosure
+D Shielding Connections
+F https://www.digi.com/products/embedded-systems/system-on-modules/digiconnectme9210#resources
+$ENDCMP
+#
+$CMP HCPL-0600-Isolator
+D High Speed-10Mbit/s Logic Gate Optocoupler
+F https://www.onsemi.com/pub/Collateral/HCPL0639-D.pdf
+$ENDCMP
+#
+$CMP HCPL-0637-8-9-Isolator
+D Dual High Speed-10Mbit/s Logic Gate Optocoupler
+F https://www.onsemi.com/pub/Collateral/HCPL0639-D.pdf
+$ENDCMP
+#
+$CMP MAX3222ExUP
+D Dual TIA232 driver/receiver, 2.5-5.5V supply, 15kV
+K tia232 uart transceiver 232
+F https://www.analog.com/media/en/technical-documentation/data-sheets/10801fe.pdf
+$ENDCMP
+#
 $CMP Mechanical
 D General Unspecified Mechanical Stuff
 $ENDCMP
 #
-$CMP Phoenix-SDCC-1.5-6-PV-3.5
-D Pluggable Terminal Blocks SDDC 1,5/ 6-PV-3,5
-K SKEDD Plug-in Terminal Bloc Connector
-F https://www.phoenixcontact.com/online/portal/gb/?uri=pxc-oc-itemdetail:pid=1848684&library=gben&pcck=P-11-02-11&tab=1&selectedCategory=ALL
+$CMP SW_Push_Dual_2
+D Push button switch, generic, symbol, four pins
+K switch normally-open pushbutton push-button
+F ~
+$ENDCMP
+#
+$CMP TPS56120x
+D 4.5V to 17V Input, 1A Output, Synchronous Step-Down Converter
+F https://www.ti.com/lit/gpn/tps561208
+$ENDCMP
+#
+$CMP Traco-TMV-Series
+D 1-W Unregulated 3kV -40+85C DC/DC Converter
+K DC-DC Converter Traco
 $ENDCMP
 #
 $CMP UA78L0xxAPK
 D Positive Linear Regulator, 100 mA, SOT-89, -40~125C
 K Voltage Regulator 100mA SOT-89
 F http://www.ti.com/lit/ds/symlink/ua78l.pdf
+$ENDCMP
+#
+$CMP USBLC6-4SC6-Power_Protection
+D Very low capacitance ESD protection
+F https://www.st.com/resource/en/datasheet/usblc6-4.pdf
+$ENDCMP
+#
+$CMP USB_B_Micro-Connector
+D USB Micro Connector
 $ENDCMP
 #
 #End Doc Library
