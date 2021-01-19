@@ -16,7 +16,7 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **HCPL-0600-Isolator**: High Speed-10Mbit/s Logic Gate Optocoupler
 - **HCPL-0637-8-9-Isolator**: Dual High Speed-10Mbit/s Logic Gate Optocouplers
 - **MAX3222ExUP**: Dual [TIA-232](https://en.wikipedia.org/wiki/RS-232) driver/receiver, 2.5-5.5V supply, 15kV
-- **Phoenix-SDCC-1.5-6-PV-3.5**: [Phoenix Contact](https://www.phoenixcontact.com) SKEDD Direct snap-in connector, 2 x 6 terminals at a 3.5 mm pitch
+- **Phoenix-SDDC-1.5-6-PV-3.5**: [Phoenix Contact](https://www.phoenixcontact.com) SKEDD Direct snap-in connector, 2 x 6 terminals at a 3.5 mm pitch
 
 ### PCB Layout (Pcbnew) Footprints
 
@@ -65,4 +65,8 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **Unconnected_zone_16rx24c_100mils**: zone of 16-row x 24-column PTH (Plated-Through Holes) separated by 100 mils
 - **Unconnected_zone_8rx72c_100mils**:  zone of 8-row x 72-column PTH separated by 100 mils
 - **USB-B-Vert-SMT-TE-Connectivity**: vertical SMT USB-B vertical jack , [TE-Connectivity 1734571-1](https://www.te.com/usa-en/product-1734517-1.html)
+- **Phoenix-SDDC-1.5-n-PV-3.5**: [Phoenix Contact](https://www.phoenixcontact.com) SKEDD Direct snap-in connector, 2 x *n* terminals at a 3.5 mm pitch, with *n* = 2, 6, 8, 12
+- **TSSOP8-4.4**: 8-Lead Plastic Thin Shrink Small Outline, SMT - 4.4 mm Body [TSSOP, TSSOP8L], used for example I2c EEPROM's
+- **Converter_DCDC_TRACO_TEN_8_Series**: Traco Power [Ten 8](https://www.tracopower.com/fr/fra/series/ten-8) Series
+- **Converter_DCDC_TRACO_TMV-Series_THT**: Traco Power [TMV](https://www.tracopower.com/fr/fra/series/tmv) Series
 
