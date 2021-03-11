@@ -17,6 +17,7 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **HCPL-0637-8-9-Isolator**: Dual High Speed-10Mbit/s Logic Gate Optocouplers
 - **MAX3222ExUP**: Dual [TIA-232](https://en.wikipedia.org/wiki/RS-232) driver/receiver, 2.5-5.5V supply, 15kV
 - **Phoenix-SDDC-1.5-6-PV-3.5**: [Phoenix Contact](https://www.phoenixcontact.com) SKEDD Direct snap-in connector, 2 x 6 terminals at a 3.5 mm pitch
+- **DIN_41612_2x32_AC**: [DIN 41612](https://en.wikipedia.org/wiki/DIN_41612) Connector, two 32-pin rows (A and C)
 
 ### PCB Layout (Pcbnew) Footprints
 
@@ -46,7 +47,7 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **Diode_Bridge_WOG_package**: diode bridge with WOG package (5 mm pitch)
 - **Samtec-USB-B-x-x-TH**: Samtec USB type B, Thru-hole
 - **jumper-socket-2-terminals-100mils**: jumper socket with two pins, 100 mils
-- **6N137-SMD-Wide**: wide SMD package for [6N137/VO2601/V02630 opto-couplers](6N137/VO2601/V02630 opto-couplers)
+- **6N137-SMD-Wide**: wide SMD package for 6N137/VO2601/V02630 opto-couplers
 - **Converter_DCDC_TRACO_TMV-Series_THT**: Traco TMV series DC-DC converters
 - **Dagger-Faston-blade-dia-1.2mm**: Test point (Faston dagger blade)
 - **Digi-connect-ME** and **SAMTEC-CLP-110-2-x-D**: enclosure and separate connector for Digi Connect ME Single Board Computer
@@ -68,5 +69,5 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **Phoenix-SDDC-1.5-n-PV-3.5**: [Phoenix Contact](https://www.phoenixcontact.com) SKEDD Direct snap-in connector, 2 x *n* terminals at a 3.5 mm pitch, with *n* = 2, 6, 8, 12
 - **TSSOP8-4.4**: 8-Lead Plastic Thin Shrink Small Outline, SMT - 4.4 mm Body [TSSOP, TSSOP8L], used for example I2c EEPROM's
 - **Converter_DCDC_TRACO_TEN_8_Series**: Traco Power [Ten 8](https://www.tracopower.com/fr/fra/series/ten-8) Series
-- **Converter_DCDC_TRACO_TMV-Series_THT**: Traco Power [TMV](https://www.tracopower.com/fr/fra/series/tmv) Series
+- **Converter_DCDC_TRACO_TMV-Series_THT**: Traco Power [TMV](https://www.tracopower.com/fr/fra/series/tmv) [Series]()
 

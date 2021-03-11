@@ -10,6 +10,11 @@ D Shielding Connections
 F https://www.digi.com/products/embedded-systems/system-on-modules/digiconnectme9210#resources
 $ENDCMP
 #
+$CMP DIN_41612_2x32_AC
+D 2-row (A & C) 32-pin DIN-41612 connector
+K DIN 41612 CONNECTOR
+$ENDCMP
+#
 $CMP HCPL-0600-Isolator
 D High Speed-10Mbit/s Logic Gate Optocoupler
 F https://www.onsemi.com/pub/Collateral/HCPL0639-D.pdf
