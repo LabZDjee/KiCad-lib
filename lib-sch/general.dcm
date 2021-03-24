@@ -66,4 +66,8 @@ $CMP USB_B_Micro-Connector
 D USB Micro Connector
 $ENDCMP
 #
+$CMP Void
+D Dummy Place Holder
+$ENDCMP
+#
 #End Doc Library
