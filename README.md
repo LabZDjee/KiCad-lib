@@ -74,4 +74,5 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **MJ4P4C_TH_TOP**: Modular jack through-hole top/vertical 4P4C, type TE-Connectivity 5520257-2
 - **MJ6P6C_TH_TOP**: Modular jack through-hole top/vertical 6P6C, type TE-Connectivity 5520258-3
 - **Void**: essentially a place holder with only a top silkscreen
+- **Fuse-Holder-5x20-Vertical-TH-10mm-pitch**: Holder Vertical for 5x20 Fuses Thru-Hole 15mmx15mmx32mm Pitch 10mm ([type Schurter Shock-Safe FAC Series](https://www.schurter.com/en/datasheet/typ_FAC.pdf))
 
