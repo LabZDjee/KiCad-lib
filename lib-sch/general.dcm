@@ -25,6 +25,11 @@ D Dual High Speed-10Mbit/s Logic Gate Optocoupler
 F https://www.onsemi.com/pub/Collateral/HCPL0639-D.pdf
 $ENDCMP
 #
+$CMP LC231X
+D FTDI Module with FT231X USB to UART Chip
+K VCOMM FTDI USB Digital Interface Module
+$ENDCMP
+#
 $CMP MAX3222ExUP
 D Dual TIA232 driver/receiver, 2.5-5.5V supply, 15kV
 K tia232 uart transceiver 232
