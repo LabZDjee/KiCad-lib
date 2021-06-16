@@ -19,6 +19,7 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **Phoenix-SDDC-1.5-6-PV-3.5**: [Phoenix Contact](https://www.phoenixcontact.com) SKEDD Direct snap-in connector, 2 x 6 terminals at a 3.5 mm pitch
 - **DIN_41612_2x32_AC**: [DIN 41612](https://en.wikipedia.org/wiki/DIN_41612) Connector, two 32-pin rows (A and C)
 - **Void**: a place holder for something which is not a typical component (perhaps nothing physical as well) which should appear in the BoM. Normally associated with a **Void** footprint
+- **Nucleo32**: STMicroelectronics STM32 [Nucleo-32](https://www.st.com/en/evaluation-tools/stm32-nucleo-boards.html) (L and F) evaluation board
 
 ### PCB Layout (Pcbnew) Footprints
 
@@ -76,4 +77,6 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **Void**: essentially a place holder with only a top silkscreen
 - **Fuse-Holder-5x20-Vertical-TH-10mm-pitch**: Holder Vertical for 5x20 Fuses Thru-Hole 15mmx15mmx32mm Pitch 10mm ([type Schurter Shock-Safe FAC Series](https://www.schurter.com/en/datasheet/typ_FAC.pdf))
 - **Handle_1inch_d3**: Plastic handle, type [Bivar Card-O-Pull CP-1](https://www.bivar.com/parts_content/Datasheets/CP-1and2.pdf)
+- **Nucleo32**: STMicroelectronics STM32 [Nucleo-32](https://www.st.com/en/evaluation-tools/stm32-nucleo-boards.html) (L and F) evaluation board
+- **Relay_SPDT_Zettler_AZ8**: Zettler 3/6Amps SPDT/SPST relays 21.3 x 16.8 x 14.4 mm AZ8 series (compatible with TE/Schrack V23148 U/UB series)
 

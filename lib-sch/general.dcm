@@ -40,6 +40,11 @@ $CMP Mechanical
 D General Unspecified Mechanical Stuff
 $ENDCMP
 #
+$CMP Nucleo32
+D STM32 Nucleo-32 L/F Board, reference MB1180, Arduino Compatible Pinout
+K STM32 Nucleo-32 Nucleo Nucleo32 NUCLEO-L, NUCLEO-F Evaluation Board
+$ENDCMP
+#
 $CMP SW_Push_Dual_2
 D Push button switch, generic, symbol, four pins
 K switch normally-open pushbutton push-button
