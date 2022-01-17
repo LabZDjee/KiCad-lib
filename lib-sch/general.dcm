@@ -15,6 +15,11 @@ D 2-row (A & C) 32-pin DIN-41612 connector
 K DIN 41612 CONNECTOR
 $ENDCMP
 #
+$CMP FFC_18pts_pitch1mm
+D SMT FFC/FPC (Flexible Flat/Printed Circuit) Flex Connector 18x1mm
+K Connector Flex
+$ENDCMP
+#
 $CMP HCPL-0600-Isolator
 D High Speed-10Mbit/s Logic Gate Optocoupler
 F https://www.onsemi.com/pub/Collateral/HCPL0639-D.pdf
@@ -28,6 +33,11 @@ $ENDCMP
 $CMP LC231X
 D FTDI Module with FT231X USB to UART Chip
 K VCOMM FTDI USB Digital Interface Module
+$ENDCMP
+#
+$CMP LCD_NHD_C0216CZ
+D NewHaven COG LCD display-NHD-C0216CZ
+K LCD Display
 $ENDCMP
 #
 $CMP MAX3222ExUP

@@ -20,6 +20,8 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **DIN_41612_2x32_AC**: [DIN 41612](https://en.wikipedia.org/wiki/DIN_41612) Connector, two 32-pin rows (A and C)
 - **Void**: a place holder for something which is not a typical component (perhaps nothing physical as well) which should appear in the BoM. Normally associated with a **Void** footprint
 - **Nucleo32**: STMicroelectronics STM32 [Nucleo-32](https://www.st.com/en/evaluation-tools/stm32-nucleo-boards.html) (L and F) evaluation board
+- **CMP FFC_18pts_pitch1mm**: SMT FFC/FPC (Flexible Flat/Printed Circuit) Flex Connector 18 contacts at a 1mm pitch
+- **CMP LCD_NHD_C0216CZ**: NewHaven COG LCD display-NHD-C0216CZ
 
 ### PCB Layout (Pcbnew) Footprints
 
@@ -56,7 +58,10 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **Fix-vert-screw-block-2x200mils-dia1.4mm**: vertical Screw Block 2 holes at 200 mils, dia 1.4 mm
 - **micro-USB-Molex-1051330011**: vertical micro USB SMD Socket - [Molex 105133-0011](https://www.molex.com/molex/products/part-detail/io_connectors/1051330011)
 - **micro-USB-Molex-473461001**: horizontal, micro-USB SMD socket - [Molex 473461001](https://www.molex.com/molex/products/part-detail/io_connectors/0473461001)
-- **MJ-6-6-MOLEX-85510-5127**: vertical 6P6C Modular Jack SMD
+- **MJ-6-6-MOLEX-85510-5127**: vertical 6P6C Modular Jack SMD (with central holding pad)
+- **MJ-6-6-MOLEX-855105019**: vertical 6P6C Modular Jack SMD (with lateral holding pads)
+- **Modular-Jack-8P8C-SMD_Molex_085513-5113_Vertical**: vertical 8P8C Modular Jack SMD (with central holding pad)
+- **Modular-Jack-8P8C-SMD_Molex_855105020_Vertical**: vertical 8P8C Modular Jack SMD (with lateral holding pads)
 - **QFN50P400X400X80-25N-D**: 24-Pin QFN-1 4x4mm pitch 0.5mm (.25mm wide)
 - **Samtec-ERF8-050-01-L-D-RA**: Samtec rugged edge rate strips 100-pin female 0.8 mm [ERF8-RA Series](https://www.samtec.com/products/erf8-050-01-l-d-ra-l-tr)
 - **Samtec-ERM8-050-01-L-D-RA**: Samtec rugged edge rate strips 100-pin male 0.8 mm [ERM8-RA Series](https://www.samtec.com/products/erm8-050-01-l-d-ra-l-tr)
@@ -79,4 +84,7 @@ Personal storage of [KiCad EDA](http://kicad-pcb.org) parts: symbols (for schema
 - **Handle_1inch_d3**: Plastic handle, type [Bivar Card-O-Pull CP-1](https://www.bivar.com/parts_content/Datasheets/CP-1and2.pdf)
 - **Nucleo32**: STMicroelectronics STM32 [Nucleo-32](https://www.st.com/en/evaluation-tools/stm32-nucleo-boards.html) (L and F) evaluation board
 - **Relay_SPDT_Zettler_AZ8**: Zettler 3/6Amps SPDT/SPST relays 21.3 x 16.8 x 14.4 mm AZ8 series (compatible with TE/Schrack V23148 U/UB series)
+- **FPC_18pts_pitch1mm**: SMT FFC/FPC (Flexible Flat/Printed Circuit) Flex Connector 18 contacts at a 1mm pitch
+- **FPC_6CKT_1mm_SMT**: FPC ZIF SMT connector (type Molex 52610-06xx)
+- **LCD_NHD_C0216CZ**: NewHaven COG LCD display-NHD-C0216CZ
 
